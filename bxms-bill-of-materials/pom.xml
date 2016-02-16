@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rhc</groupId>
 	<artifactId>bxms-bill-of-materials</artifactId>
-	<version>6.2.0-SNAPSHOT</version>
+	<version>6.2.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-		<version.brms-bpmsuite>6.2.0.GA-redhat-1</version.brms-bpmsuite>
+		<version.brms-bpmsuite>6.2.1.GA-redhat-2</version.brms-bpmsuite>
 
 		<version.jboss.eap>6.4.4.GA</version.jboss.eap>
 
